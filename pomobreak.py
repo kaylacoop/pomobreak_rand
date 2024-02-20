@@ -12,7 +12,7 @@ blist = ["Chess Puzzles","Typing Test","Quick Maths Game","Wordle","Speedrun Sud
 clist = ["Quick Sketches 30s","Quick Sketches 2m","Song & Doodle","Photoshop Daily Challenge", "Flowchart of Making Tea"]
 
 import random as r
-numpicker = r.randint(0,6)
+numpicker = r.randint(0,4)
 
 print (" ")
 if break_des == ("a"):
